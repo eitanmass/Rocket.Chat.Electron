@@ -17,7 +17,7 @@ sidebar.on('badge-setted', function () {
 });
 
 export var start = function () {
-    var defaultInstance = 'https://demo.rocket.chat';
+    var defaultInstance = 'chat.farfalot.com';
 
     // connection check
     function online () {
